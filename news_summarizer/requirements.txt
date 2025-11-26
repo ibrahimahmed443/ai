@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+transformers>=4.0.0
+torch
+trafilatura>=1.6.0
+lxml[html_clean]
+lxml_html_clean
+httpx
+pydantic

@@ -1,0 +1,26 @@
+Artificial Intelligence (AI) is a field of computer science focused on building systems
+that can perform tasks that normally require human intelligence. These tasks include
+reasoning, learning, perception, and natural language understanding.
+
+Machine Learning is a subset of Artificial Intelligence. In machine learning, systems
+learn patterns from data rather than being explicitly programmed. Common machine learning
+approaches include supervised learning, unsupervised learning, and reinforcement learning.
+
+Deep Learning is a subset of machine learning that uses neural networks with many layers.
+These deep neural networks are particularly effective for tasks such as image recognition,
+speech recognition, and natural language processing.
+
+Large Language Models (LLMs) are a type of deep learning model trained on vast amounts of
+text data. Examples include GPT, Claude, and LLaMA. These models are based on the
+Transformer architecture and use self-attention mechanisms to understand context and
+relationships between words.
+
+Retrieval-Augmented Generation (RAG) is a technique that combines information retrieval
+with text generation. In a RAG system, relevant documents or document chunks are retrieved
+from a knowledge base using embeddings and similarity search. The retrieved content is
+then provided as context to a language model to generate more accurate and grounded
+responses.
+
+Vector databases such as ChromaDB, FAISS, and Pinecone are commonly used in RAG systems.
+They store text embeddings and allow efficient similarity search, enabling fast retrieval
+of relevant information for a given query.
